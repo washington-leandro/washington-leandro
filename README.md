@@ -33,5 +33,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{washington-leandro}/count.svg" /></p> 
 <br></div>
   
-
+> *Créditos: Matheus Maia*
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
